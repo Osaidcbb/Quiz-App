@@ -1,0 +1,75 @@
+[
+{
+"title":"Why We Use <br> Element?",
+"answer_1":"To make Text Bold",
+"answer_2":"To make Text Italic",
+"answer_3":"To Add Breakline",
+"answer_4":"To make Horizontal Line",
+"right_answer":"To Add Breakline"
+},
+{
+    "title":"Why We Use <hr> Element?",
+    "answer_1":"To make Text Bold",
+    "answer_2":"To make Text Italic",
+    "answer_3":"To Add Breakline",
+    "answer_4":"To make Horizontal Line",
+    "right_answer":"To make Horizontal Line"
+    },
+    {
+        "title":"Which of the following tags is used to create a hyperlink in HTML?",
+        "answer_1":"<a>",
+        "answer_2":"<link>",
+        "answer_3":"<href>",
+        "answer_4":"<url>",
+        "right_answer":"<href>"
+        },
+        {
+            "title":"Which tag is used to define a table in HTML?",
+            "answer_1":"<table>",
+            "answer_2":"<td>",
+            "answer_3":"<tr>",
+            "answer_4":"<th>",
+            "right_answer":"<table>"
+            },       
+            {
+                "title":" Which of the following is the correct syntax to link a CSS file in HTML?",
+                "answer_1":"<css href=styles.css>",
+                "answer_2":"<link rel=stylesheet href=styles.css>",
+                "answer_3":"<style src=styles.css>",
+                "answer_4":"<link rel=style href=styles.css>",
+                "right_answer":"<link rel=stylesheet href=styles.css>"
+                },       
+                {
+                    "title":" What does the alt attribute in an <img> tag define?",
+                    "answer_1":"The width of the image",
+                    "answer_2":"The caption for the image",
+                    "answer_3":"The alternative text to display if the image cannot be shown",
+                    "answer_4":"The alignment of the image",
+                    "right_answer":"The alignment of the image"
+                    },       
+                    {
+                        "title":"Which of the following tags is used to create an ordered list in HTML?",
+                        "answer_1":"<ol>",
+                        "answer_2":"<ul>",
+                        "answer_3":"<li>",
+                        "answer_4":"<lo>",
+                        "right_answer":"<ol>"
+                        },       
+                        {
+                            "title":"What is the default value of the display property for an HTML <div> element?",
+                            "answer_1":"block",
+                            "answer_2":"inline",
+                            "answer_3":"flex",
+                            "answer_4":"inline-block",
+                            "right_answer":"block"
+                            },       
+                            {
+                                "title":" How do you add a comment in HTML?",
+                                "answer_1":"<!-- This is a comment -->",
+                                "answer_2":"/* This is a comment */",
+                                "answer_3":"// This is a comment",
+                                "answer_4":"# This is a comment",
+                                "right_answer":"<!-- This is a comment -->"
+                                }    
+
+]
